@@ -1,0 +1,6 @@
+{
+  "name": "NKW Serviços e Limpeza Bertioga, Riviera e Boracéia",
+  "description": "Limpeza residencial premium, comercial e pós-obra em Bertioga, Riviera de São Lourenço e Boracéia. Agende pelo WhatsApp: (13) 99732-6635.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
